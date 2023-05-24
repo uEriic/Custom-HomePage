@@ -15,7 +15,7 @@ Para você que acha a página inicial de seu navegador chata ou monótona eu tro
 
 
 ## Como utilizar?
-Para personalizar basta colocar essa url nas configurações de inicialização de seu navegador. Aqui estão formas de fazer em alguns navegadores: [Chrome](https://youtu.be/HEgnILdatHQ), [Egde](https://youtu.be/SgYsETeGma0), [Firefox](https://youtu.be/l-GF5st5gdw) e [Opera](https://youtu.be/OlgHePLg4Ng).
+Para personalizar basta colocar essa [**_url_**](https://ueriic.github.io/Custom-HomePage/) nas configurações de inicialização de seu navegador. Aqui estão formas de fazer em alguns navegadores: [Chrome](https://youtu.be/HEgnILdatHQ), [Egde](https://youtu.be/SgYsETeGma0), [Firefox](https://youtu.be/l-GF5st5gdw) e [Opera](https://youtu.be/OlgHePLg4Ng).
 
 
 ## Contato
